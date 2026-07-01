@@ -7,7 +7,7 @@
 
 ## 📌 Sobre mim
 
-Desenvolvedor Backend em formação, apaixonado por tecnologia e pelo desenvolvimento de aplicações web.
+Desenvolvedor Full Stack em formação, apaixonado por tecnologia e pelo desenvolvimento de aplicações web.
 
 Atualmente estudo Python como principal linguagem e a utilizo como base para evoluir em desenvolvimento backend, banco de dados e construção de sistemas completos.
 
