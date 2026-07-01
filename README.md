@@ -73,7 +73,7 @@ WhatsApp
 
 Email
 
-cunha20pedro@gmail.com
+pedrocunhadev25@gmail.com
 
 LinkedIn
 
@@ -81,4 +81,4 @@ www.linkedin.com/in/dev-pedrocunha
 
 GitHub
 
-github.com/pedrocunha-dev25
+github.com/devPedro17
